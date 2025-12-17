@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# Images / output files
+*.ppm
+
+# Expected results folder
+expected_results/
